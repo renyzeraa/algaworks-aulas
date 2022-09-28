@@ -1,12 +1,10 @@
-var array = [];
-var value = {};
+const array = []
+const value = {}
 
-console.log(!!value);
+console.log(!value)
 
 if (array.length) {
   console.log('a condição é verdadeira')
-}
-
-else {
+} else {
   console.log('a condição é falsa')
 }

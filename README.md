@@ -1,8 +1,8 @@
 # Curso: Mergulhando no JavaScript 🤿
 
-Esse repositório é referente ao curso Mergulhando no JavaScript, criado pela [AlgaWorks](https://algaworks.com).
+Esse repositório é referente ao curso Mergulhando no JavaScript e TypeScript do básico ate o avançado, criado da [AlgaWorks](https://algaworks.com), com duração de 11 horas.
 
-O objetivo deste curso é ensinar JavaScript moderno para **qualquer pessoa**, independente de um contato anterior com a linguagem. Contém:
+O objetivo deste curso é ensinar JavaScript moderno. Contém:
 
 ### Módulo 01
 
@@ -31,18 +31,34 @@ O objetivo deste curso é ensinar JavaScript moderno para **qualquer pessoa**, i
 - [ ] Argumentos
 - [ ] Hoisting
 - [ ] Template Strings
+- [ ] setTimerOut / setInterval
 
 ### Módulo 04
 
-... coming
+- [ ] Programação Orientada a Objetos
+- [ ] class
+- [ ] constructor
+- [ ] inheritance
+- [ ] prototype
 
 ### Módulo 05
 
-... coming
+- [ ] Destructuring
+- [ ] Objects
+- [ ] Arrays
+- [ ] Return Functions
+- [ ] Spread operator
+- [ ] Clone spread
+- [ ] Array spreads
+- [ ] Functions spreads
+- [ ] rest
+- [ ] rest with destructuring
 
 ### Módulo 06
 
-... coming
+- [ ] Array methods
+- [ ] Array from
+- [ ]
 
 ### Módulo 07
 

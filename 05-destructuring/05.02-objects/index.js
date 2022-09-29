@@ -15,7 +15,7 @@ const person2 = {
 // const name = person.name
 // const age = person.age
 
-// nova forma
+// nova forma { } chaves
 const { name, age } = person
 
 // pegar propriedades aninhadas

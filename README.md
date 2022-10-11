@@ -58,11 +58,19 @@ O objetivo deste curso é ensinar JavaScript moderno. Contém:
 
 - [ ] Array methods
 - [ ] Array from
-- [ ]
+- [ ] Array of
+- [ ] forEach
+- [ ] map
+- [ ] filter
+- [ ] reduce
+- [ ] find
+- [ ] some
+- [ ] every
 
 ### Módulo 07
 
-... coming
+- [ ] Assíncrono
+- [ ] Promises
 
 ### Módulo 08
 

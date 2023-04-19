@@ -1,1 +1,1 @@
-// arquivo para rodas os .js no console do navegador
+// arquivo para rodar os .js no console do navegador

@@ -1,21 +1,19 @@
 type Person = {
-  name: string
-  age: number
-  contacts?: string[]
-  isAlive: boolean
+    name: string
+    age: number
+    contacts?: string[]
+    isAlive: boolean
 }
 
 const person: Person = {
-  age: 22,
-  name: 'Lucas',
-  isAlive: true,
-  contacts: [
-    'daniel.bonifacio@algaworks.com'
-  ]
+    age: 24,
+    name: 'Renan',
+    isAlive: true,
+    contacts: ['renan@email.com']
 }
 
 const person2: Person = {
-  name: 'Joao',
-  age: 43,
-  isAlive: true
+    name: 'Joaozinho',
+    age: 18,
+    isAlive: true
 }

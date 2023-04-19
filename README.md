@@ -6,77 +6,93 @@ O objetivo deste curso é ensinar JavaScript moderno. Contém:
 
 ### Módulo 01
 
-- [ ] Introdução ao Curso de JavaScript
-- [ ] Como lidar com erros
+-   [ x ] Introdução ao Curso de JavaScript
+-   [ x ] Como lidar com erros
 
 ### Módulo 02
 
-- [ ] Hello World
-- [ ] Objetos
-- [ ] Arrays de objetos
-- [ ] Funções
-- [ ] Condicionais
-- [ ] Programação funcional
-- [ ] Truthy e Falsy
+-   [ x ] Hello World
+-   [ x ] Objetos
+-   [ x ] Arrays de objetos
+-   [ x ] Funções
+-   [ x ] Condicionais
+-   [ x ] Programação funcional
+-   [ x ] Truthy e Falsy
 
 ### Módulo 03
 
-- [ ] Tudo é Objeto
-- [ ] Var
-- [ ] const
-- [ ] let
-- [ ] Funções
-- [ ] call e apply
-- [ ] Arrow function
-- [ ] Argumentos
-- [ ] Hoisting
-- [ ] Template Strings
-- [ ] setTimerOut / setInterval
+-   [ x ] Tudo é Objeto
+-   [ x ] Var
+-   [ x ] const
+-   [ x ] let
+-   [ x ] Funções
+-   [ x ] call e apply
+-   [ x ] Arrow function
+-   [ x ] Argumentos
+-   [ x ] Hoisting
+-   [ x ] Template Strings
+-   [ x ] setTimerOut / setInterval
 
 ### Módulo 04
 
-- [ ] Programação Orientada a Objetos
-- [ ] class
-- [ ] constructor
-- [ ] inheritance
-- [ ] prototype
+-   [ x ] Programação Orientada a Objetos
+-   [ x ] class
+-   [ x ] constructor
+-   [ x ] inheritance
+-   [ x ] prototype
 
 ### Módulo 05
 
-- [ ] Destructuring
-- [ ] Objects
-- [ ] Arrays
-- [ ] Return Functions
-- [ ] Spread operator
-- [ ] Clone spread
-- [ ] Array spreads
-- [ ] Functions spreads
-- [ ] rest
-- [ ] rest with destructuring
+-   [ x ] Destructuring
+-   [ x ] Objects
+-   [ x ] Arrays
+-   [ x ] Return Functions
+-   [ x ] Spread operator
+-   [ x ] Clone spread
+-   [ x ] Array spreads
+-   [ x ] Functions spreads
+-   [ x ] rest
+-   [ x ] rest with destructuring
 
 ### Módulo 06
 
-- [ ] Array methods
-- [ ] Array from
-- [ ] Array of
-- [ ] forEach
-- [ ] map
-- [ ] filter
-- [ ] reduce
-- [ ] find
-- [ ] some
-- [ ] every
+-   [ x ] Array methods
+-   [ x ] Array from
+-   [ x ] Array of
+-   [ x ] forEach
+-   [ x ] map
+-   [ x ] filter
+-   [ x ] reduce
+-   [ x ] find
+-   [ x ] some
+-   [ x ] every
 
 ### Módulo 07
 
-- [ ] Assíncrono
-- [ ] Promises
+-   [ x ] Assíncrono
+-   [ x ] Promises
+-   [ x ] Then & Catch
+-   [ x ] Async & Await
+-   [ x ] Promisse.all
+-   [ x ] Encadear then
 
 ### Módulo 08
 
-... coming
+-   [ x ] Pacotes e Modulos
+-   [ x ] node_modules
+-   [ x ] .gitignore
 
 ### Módulo 09
+
+-   [ x ] TypeScript
+-   [ x ] Tipando variaveis
+-   [ x ] Type aliasing
+-   [ x ] Tipando argumentos
+-   [ x ] Tipando objetos
+-   [ x ] Union intersection
+-   [ x ] Interfaces
+-   [ x ] Exportando interfaces types
+-   [ x ] Generics
 
 ---
 

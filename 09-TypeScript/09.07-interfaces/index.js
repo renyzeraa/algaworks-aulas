@@ -2,5 +2,10 @@
 const person = {
     age: 24,
     name: 'Renan',
-    sex: 'male'
+    sex: 'male',
+    hungry: true
+};
+const animal = {
+    sex: 'male',
+    hungry: true
 };
